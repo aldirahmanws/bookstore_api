@@ -10,6 +10,8 @@ Logger menggunakan Morgan
 
 #### Installation
 
+`Import bookstore.sql ke Database`
+
 `$ npm install`
 
 `$ cp .env.example .env`
