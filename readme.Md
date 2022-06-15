@@ -1,12 +1,12 @@
 ## Bookstore API
 
-Framework : Express Node JS
-DB : PostgreSQL
+Framework : Express Node JS<br>
+DB : PostgreSQL<br>
 
-Enkripsi Password menggunakan Bycrypt
-Deklarasi variable enviornment disimpan di file .env
-Autentikasi menggunakan JSON Web Token
-Logger menggunakan Morgan
+Enkripsi Password menggunakan Bycrypt <br/>
+Deklarasi variable enviornment disimpan di file .env <br/>
+Autentikasi menggunakan JSON Web Token <br/>
+Logger menggunakan Morgan <br/>
 
 #### Installation
 
