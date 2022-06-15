@@ -3,8 +3,8 @@
 Framework : Express Node JS<br>
 DB : PostgreSQL<br>
 
-Enkripsi Password menggunakan Bycrypt <br/>
-Deklarasi variable enviornment disimpan di file .env <br/>
+Enkripsi Password menggunakan Bcrypt <br/>
+Deklarasi variable environment disimpan di file .env <br/>
 Autentikasi menggunakan JSON Web Token <br/>
 Logger menggunakan Morgan <br/>
 
